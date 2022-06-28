@@ -1,0 +1,39 @@
+h1{
+    position: relative;
+    top: 80px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.container{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 0px 500px;
+    position: relative;
+    top: 100px;
+    border-radius: 8px;
+    background-color: rgb(239, 234, 234);
+    box-shadow: 2px 1px 10px;
+}
+
+.form-group{
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px 8px;
+    color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(205, 239, 250);
+    cursor: pointer;
+    font-weight: bolder;
+}
+
